@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VighneshMestry
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java Programming Language
-- 💞️ I’m looking to collaborate on Instagram
+- 💞️ I’m looking to collaborate on Open Source Projects realted to android Development
 - 📫 How to reach me mestryvighnesh27@gmail.com
 
 <!---
