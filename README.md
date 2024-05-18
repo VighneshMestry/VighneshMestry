@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java Programming Language and Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on Open Source Projects realted to android Development.
 - 📫 How to reach me mestryvighnesh27@gmail.com
-- https://github.com/VighneshMestry/Reddit-Clone
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VighneshMestry&theme=tokyonight-duo)](https://git.io/streak-stats)
 <!---
